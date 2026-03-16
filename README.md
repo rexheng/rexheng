@@ -4,9 +4,9 @@ LSE PPE · London · building things at the intersection of policy, data, and AI
 
 ---
 
-I'm a final-year Philosophy, Politics and Economics student at LSE. Most of my coding sits somewhere between the social sciences and software — simulations of how people behave under policies, tools for navigating cities, scrapers that pull ESG data out of places it probably shouldn't be locked behind.
+I'm a second-year Philosophy, Politics and Economics student at LSE. Most of my coding sits somewhere between the social sciences and software — simulations of how people behave under policies, research tools, green finance, and city mappers.
 
-I build things mostly out of curiosity. A lot of projects start as a question I can't answer with existing tools.
+I build things mostly out of curiosity and a passion for shaping the world around me. A lot of projects start as a question I can't answer with existing tools.
 
 ## What I'm working on
 
@@ -17,7 +17,7 @@ I build things mostly out of curiosity. A lot of projects start as a question I 
 ## Other things I've made
 
 - **[four-letters](https://github.com/rexheng/four-letters)** — a React word puzzle game with swipe controls, speed bonuses, and PWA support. One of the few projects I actually finished properly.
-- **[sustainlyticsscraper](https://github.com/rexheng/sustainlyticsscraper)** — Python scraper for Sustainalytics ESG ratings and logos, built when I needed the data for credit risk work and couldn't afford the subscription.
+- **[sustainlyticsscraper](https://github.com/rexheng/sustainlyticsscraper)** — Python scraper for Sustainalytics ESG ratings and logos, built when I needed the data for credit risk work at DBS.
 - **[neoriemannian](https://github.com/rexheng/neoriemannian)** — a music theory tool for visualising neo-Riemannian chord transformations. Side project from a long-running interest in the maths behind tonal harmony.
 - **[econometrics](https://github.com/rexheng/econometrics)** — Jupyter notebooks from my LSE econometrics coursework, including HP filter implementations and time series analysis.
 
