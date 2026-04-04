@@ -6,7 +6,11 @@ LSE PPE · London · building things at the intersection of policy, data, and AI
 
 ## Hackathons
 
-🥇 Oliver Wyman LSE Datathon · 🥇 Build with AI — Google GDG · 🥇 Susquehanna Datathon · 🥈 Cursor Hackathon London · Finalist — Mistral AI · Finalist — Claude Imperial Hackathon
+🥇 Oliver Wyman LSE Datathon 
+🥇 Build with AI — Google GDG 
+🥇 Susquehanna Datathon 
+🥈 Cursor Hackathon London
+Finalist — Mistral AI, Claude Imperial Hackathon
 
 ---
 
@@ -21,7 +25,6 @@ I build things mostly out of curiosity and a passion for shaping the world aroun
 - **[amogus](https://github.com/rexheng/amogus)** — a decision layer for AI agents. Structured multi-perspective deliberation via MCP, where agents argue, vote, and reach consensus before acting. Among Us themed.
 - **[musicity](https://github.com/rexheng/musicity)** — a real-time 3D voxel city that grows from music. Play piano with your keyboard or MIDI controller and watch procedurally generated structures rise from the chords you play. 15 atmospheric vibes, a music theory engine, and infinite procedural terrain.
 - **[tfl-node-sim](https://github.com/rexheng/tfl-node-sim)** — modelling the London transport network as a graph; experimenting with disruption and rerouting scenarios.
-- **[london_lsoa_map](https://github.com/rexheng/lsoa)** — geographic data visualisation for London Lower Super Output Areas, for civic and policy analysis.
 
 ## Other things I've made
 
