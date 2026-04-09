@@ -24,7 +24,7 @@ I build things mostly out of curiosity and a passion for shaping the world aroun
 - **[the-republic](https://github.com/rexheng/the-republic)** — full-stack research intelligence platform. Knowledge graph, autonomous AI agent swarm, on-chain paper submissions, and LMSR prediction markets on research outcomes. Dual-chain architecture on Flare and Plasma testnets.
 - **[amogus](https://github.com/rexheng/amogus)** — Among Us-themed AI deliberation council — four agents debate any planning prompt through structurally isolated rounds, producing refined PRDs instead of unchallenged plans. MCP server for Cursor / Claude Code. 2nd place at Cursor Hack London 2026.
 - **[musicity](https://github.com/rexheng/musicity)** — a real-time 3D voxel city that grows from music. Play piano with your keyboard or MIDI controller and watch procedurally generated structures rise from the chords you play. 15 atmospheric vibes, a music theory engine, and infinite procedural terrain.
-- **[tfl-node-sim](https://github.com/rexheng/tfl-node-sim)** — modelling the London transport network as a graph; experimenting with disruption and rerouting scenarios.
+- **[london_lsoa_map](https://github.com/rexheng/london_lsoa_map)** & **[tfl-node-sim](https://github.com/rexheng/tfl-node-sim)** — paired 72-hour build for the Olympic Way Interchange proposal (🥇 LSESU x Susquehanna Datathon 2026). The LSOA explorer runs a composite station need score across all 4,994 London neighbourhoods; the impact simulator models the +1.19% global-efficiency gain from inserting a new three-line interchange into the Underground graph.
 
 ## Other things I've made
 
