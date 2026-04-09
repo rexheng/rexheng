@@ -29,7 +29,7 @@ I build things mostly out of curiosity and a passion for shaping the world aroun
 ## Other things I've made
 
 - **[four-letters](https://github.com/rexheng/four-letters)** — a React word puzzle game with swipe controls, speed bonuses, and PWA support. One of the few projects I actually finished properly.
-- **[landmark](https://github.com/rexheng/landmark-vercel)** — agricultural data collection network for optimising policy parameters. Low-cost IoT sensor nodes transmitting soil, water, and climate data through LoRaWAN with blockchain verification.
+- **[landmark](https://github.com/rexheng/landmark-vercel)** — agricultural IoT and policy optimisation platform built at Hack London 2026. Low-cost STM32 LoRaWAN sensor nodes transmit soil, water, and climate telemetry into a Next.js dashboard that fuses ground readings with NASA satellite overlays across Sub-Saharan Africa, South Asia, and Southeast Asia. [Live demo](https://the-delta-ten.vercel.app).
 - **[neoriemannian](https://github.com/rexheng/neoriemannian)** — a music theory tool for visualising neo-Riemannian chord transformations. Side project from a long-running interest in the maths behind tonal harmony.
 
 ## Stack
