@@ -6,6 +6,7 @@ LSE PPE · London · building things at the intersection of policy, data, and AI
 
 ## Hackathons
 
+🥇 Most Commercial — Manus Vibecoding Hackathon
 🥇 Oliver Wyman LSE Datathon 
 🥇 Build with AI — Google GDG 
 🥇 Susquehanna Datathon 
@@ -20,6 +21,7 @@ I build things mostly out of curiosity and a passion for shaping the world aroun
 
 ## What I'm working on
 
+- **[manusman](https://rexheng.com)** — AI-powered meeting prep platform. Pick a company and contact, three research agents stream in parallel to build a synthesised briefing, then drop into a live meeting simulation with keyboard-triggered overlay cards and a research sidebar. React, TypeScript, Vite, Tailwind, Express, Manus AI (SSE streaming). 🥇 Most Commercial at Manus Vibecoding Hackathon (April 2026), built with Kiki Qiqi Zhang.
 - **[simulacra](https://github.com/rexheng/simulacra)** — an AI social simulation engine. Feed it a policy, it generates a population of diverse personas and runs each one as a separate LLM agent responding to that policy, then synthesises the results. Built on AWS Bedrock and the Strands Agents SDK. Still extending it with game theory experiments (ultimatum game, bystander effect, Stanford Prison).
 - **[the-republic](https://github.com/rexheng/the-republic)** — full-stack research intelligence platform. Knowledge graph, autonomous AI agent swarm, on-chain paper submissions, and LMSR prediction markets on research outcomes. Dual-chain architecture on Flare and Plasma testnets.
 - **[amogus](https://github.com/rexheng/amogus)** — Among Us-themed AI deliberation council — four agents debate any planning prompt through structurally isolated rounds, producing refined PRDs instead of unchallenged plans. MCP server for Cursor / Claude Code. 2nd place at Cursor Hack London 2026.
