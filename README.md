@@ -1,6 +1,6 @@
 # Rex Heng
 
-LSE PPE · London · building things at the intersection of policy, data, and AI
+LSE PPE | UC Berkeley · Building things at the intersection of policy, data, and AI
 
 ---
 
@@ -37,7 +37,7 @@ I build things mostly out of curiosity and a passion for shaping the world aroun
 
 ## Stack
 
-Python · TypeScript · JavaScript · C · Solidity · React · Next.js · Three.js · FastAPI · AWS Bedrock · Pandas · Jupyter · SQL
+Python · TypeScript · JavaScript · Solidity · React · Next.js · Three.js · FastAPI · AWS Bedrock · Pandas · Jupyter · SQL
 
 ## Find me
 
